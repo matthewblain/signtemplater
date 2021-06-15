@@ -1,0 +1,30 @@
+SignID,Comment,TrailName,Arrow
+2S,,Troop 88 Trail,UpRight
+3E,On Kiosk. Down and right.,Troop 88 Trail,DownRight
+3aS,,Troop 88 Trail,V
+4N,,Troop 88 Trail,Up
+4S,,Troop 88 Trail,Up
+5E,,Troop 88 Trail,Right
+5S,,To Steep Ravine,Left
+5aW,On Stop Sign,To Troop 88,Up
+5aE,On Stop Sign,To Steep Ravine,UpRight
+6E,,Steep Ravine Trail,Right
+6S,,To Troop 88,Left
+7E,,Clarendon Knob Trail,UpLeft
+7W,,Steep Ravine Trail,Up
+8N,,Steep Ravine Trail,Left
+8W,,Timber Trail,Right
+9S,,Sherwood Road Trail,Left
+9E,,Clarendon Knob Trail,LeftRight
+10S,,Clarendon Knob Trail,LeftRight
+10E,,Timber Trail,Right
+11N,On Kiosk front,Victory Trail,Up
+11S,On Kiosk back,Clarendon Knob Trail,Right
+11W,On Kiosk facing 'inside' legs,Clarendon Knob Trail,UpLeft
+12NE,,Lost Trail,Right
+12SE,,Sherwood Road Trail,LeftRight
+14SE1,On Kiosk. Optional.,Sherwood Road Trail,Right
+14S,On Kiosk. Optional.,Victory Trail,Left
+15S,Lost Trail lower leg,Victory Trail,Up
+15N,Lost Trail lower leg,Lost Trail,Left
+6aw,at sutro meadow,steep ravine,LeftRight
