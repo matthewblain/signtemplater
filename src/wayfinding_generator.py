@@ -12,7 +12,8 @@ E.g. ArrowLeft, ArrowRight in template -> Left, Right in CSV.
 
 Todo: Document the exact format.s!
 Todo: Use Inkscape to generate the PDF files.
-
+inkscape.exe INPUT.SVG --export-area-drawing  \
+ --export-type=pdf  --export-filename=OUTPUT.pdf --batch-process 
 
 Matthew Blain, 04jun2021
 """
@@ -24,12 +25,15 @@ import xml.etree.ElementTree as ET
 
 def generate_files(template_filename, csv_data, output_base):
     seen_ids = set()
+    svg_filenames = []
     for sign_info in csv_data:
         if sign_info["SignID"] in seen_ids:
             raise Exception("Sign ID seen more than once: " + sign_info["SignID"])
         tree = fill_template(template_filename, sign_info)
         sign_filename = output_base + sign_info["SignID"] + ".svg"
         tree.write(sign_filename)
+        svg_filenames.append(sign_filename)
+    return svg_filenames
 
 
 def update_text_with_label(root, label, text):
@@ -71,11 +75,15 @@ def fill_template(template_filename, sign_info):
 def template_to_svg(template_filename, csv_filename, output_path_base):
     with open(csv_filename, "r") as r:
         csv_data = csv.DictReader(r)
-        generate_files(template_filename, csv_data, output_path_base)
+        svg_filenames = generate_files(template_filename, csv_data, output_path_base)
+        return svg_filenames
 
 
 def main(argv):
-    template_to_svg(argv[1], argv[2], argv[3])
+    svg_filenames = template_to_svg(argv[1], argv[2], argv[3])
+    for svg in svg_filenames:
+       pdf = svg[:-3] + "pdf"
+       print ("inkscape.exe  --export-area-drawing  --export-type=pdf  --batch-process  %s  --export-filename=%s" % (svg, pdf))
 
 
 if __name__ == "__main__":
