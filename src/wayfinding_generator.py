@@ -3,8 +3,12 @@
 Takes a SVG template file and a CSV with trail sign descriptions.
 Generates an SVG per trail sign.
 
+SVG File should have arrows with labels like #ArrowLeft , hidden.
+This tool will unhide the arrows indiciated.
+
 CSV file must have headers with columns SignID, TrailName, Arrow
-Arrow must be one of  S,L,R,BL,BR,LR,V.
+Arrow must match... whatever labels are used in the SVG template.
+E.g. ArrowLeft, ArrowRight in template -> Left, Right in CSV.
 
 Todo: Document the exact format.s!
 Todo: Use Inkscape to generate the PDF files.

@@ -15,7 +15,7 @@
    version="1.1"
    id="svg9112"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
-   sodipodi:docname="wayfinding_template_vertical.svg">
+   sodipodi:docname="lhh_vertical_sign_template.svg">
   <defs
      id="defs9106" />
   <sodipodi:namedview
@@ -25,11 +25,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.40798612"
-     inkscape:cx="-479.07196"
-     inkscape:cy="868.42525"
+     inkscape:zoom="0.39410491"
+     inkscape:cx="240.00004"
+     inkscape:cy="1111.424"
      inkscape:document-units="in"
-     inkscape:current-layer="layer2"
+     inkscape:current-layer="layer7"
      showgrid="false"
      fit-margin-top="0"
      fit-margin-left="0"
@@ -65,16 +65,15 @@
        y="630.94324"
        id="text892"
        inkscape:label="#SignInfo"><tspan
-           x="0.64853925"
-           y="630.94324"
-           style="font-size:8.46666718px;stroke-width:0.26458335"
-           id="tspan888">SIGNINFO</tspan></text>
+         x="0.64853925"
+         y="630.94324"
+         style="font-size:8.46666718px;stroke-width:0.26458335"
+         id="tspan888">SIGNINFO</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer7"
      inkscape:label="Base 1"
-     sodipodi:insensitive="true"
      style="display:inline">
     <rect
        transform="translate(61.232154,31.234526)"
@@ -105,14 +104,12 @@
            height="429.65182"
            width="2000.1968"
            id="rect8928" /></flowRegion><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:170.66667175px;font-family:'Uni Neue';-inkscape-font-specification:'Uni Neue Light';fill:#ffffff;fill-opacity:1"
-         id="flowPara8934"><flowSpan
-           id="flowSpan8932"
-           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:170.66667175px;font-family:'Uni Neue';-inkscape-font-specification:'Uni Neue Light';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1">Laguna Honda </flowSpan></flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:170.66667175px;font-family:'Uni Neue';-inkscape-font-specification:'Uni Neue Bold';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1"
+         id="flowPara8934">Laguna Honda </flowPara><flowPara
          id="flowPara8938"
-         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:170.66667175px;font-family:'Uni Neue';-inkscape-font-specification:'Uni Neue Light';fill:#ffffff;fill-opacity:1"><flowSpan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:170.66667175px;font-family:'Uni Neue';-inkscape-font-specification:'Uni Neue Bold';fill:#ffffff;fill-opacity:1"><flowSpan
    id="flowSpan8936"
-   style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:170.66667175px;font-family:'Uni Neue';-inkscape-font-specification:'Uni Neue Light';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1">Community Trail </flowSpan>System</flowPara></flowRoot>    <rect
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:170.66667175px;font-family:'Uni Neue';-inkscape-font-specification:'Uni Neue Bold';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1">Community Trail </flowSpan>System</flowPara></flowRoot>    <rect
        transform="translate(61.232154,31.234526)"
        style="display:inline;fill:#75c7b9;fill-opacity:1;stroke:#000000;stroke-width:0.35526469;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
        id="rect8942"
@@ -140,7 +137,7 @@
          id="tspan8944"
          x="88.273506"
          y="15.893157"
-         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:50.79999924px;font-family:'Uni Neue';-inkscape-font-specification:'Uni Neue Light';stroke-width:0.26458332">Trail Name</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:50.79999924px;font-family:'Uni Neue';-inkscape-font-specification:'Uni Neue Bold';stroke-width:0.26458332">Trail Name</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -154,15 +151,14 @@
        style="display:none">
       <circle
          transform="rotate(90)"
-         style="display:inline;fill:#f3901d;fill-opacity:1;stroke:#005695;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:#f3901d;fill-opacity:1;stroke:#005695;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="circle10423"
          cx="42.442551"
          cy="-3.2735295"
          r="31.537804" />
       <g
          transform="translate(-598.59257,-445.91411)"
-         id="g10431"
-         style="display:inline">
+         id="g10431">
         <path
            inkscape:connector-curvature="0"
            id="path10425"
@@ -193,7 +189,7 @@
          cy="-169.27618"
          cx="-66.915329"
          id="circle10435"
-         style="display:inline;fill:#f3901d;fill-opacity:1;stroke:#005695;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:#f3901d;fill-opacity:1;stroke:#005695;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          transform="matrix(0.70710678,0.70710678,0.70710678,-0.70710678,0,0)" />
       <g
          transform="translate(0.60927946,6.2530468)"
@@ -227,10 +223,9 @@
          cy="-3.2735295"
          cx="42.442551"
          id="circle10315"
-         style="display:inline;fill:#f3901d;fill-opacity:1;stroke:#005695;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:#f3901d;fill-opacity:1;stroke:#005695;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          transform="rotate(90)" />
       <g
-         style="display:inline"
          id="g10323"
          transform="translate(-598.59257,-445.91411)">
         <path
@@ -260,15 +255,14 @@
        style="display:none">
       <circle
          transform="rotate(90)"
-         style="display:inline;fill:#f3901d;fill-opacity:1;stroke:#005695;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:#f3901d;fill-opacity:1;stroke:#005695;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="circle10357"
          cx="42.442551"
          cy="-3.2735295"
          r="31.537804" />
       <g
          transform="translate(-598.59257,-445.91411)"
-         id="g10365"
-         style="display:inline">
+         id="g10365">
         <path
            inkscape:connector-curvature="0"
            id="path10359"
@@ -299,10 +293,9 @@
          cy="-3.2735295"
          cx="42.442551"
          id="circle9702"
-         style="display:inline;fill:#f3901d;fill-opacity:1;stroke:#005695;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:#f3901d;fill-opacity:1;stroke:#005695;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          transform="rotate(90)" />
       <g
-         style="display:inline"
          id="g9710"
          transform="translate(-598.59257,-445.91411)">
         <path
@@ -432,6 +425,57 @@
          id="path1008"
          d="M -364.30925,3.6893596 V -30.100787 h 33.79015"
          style="fill:none;stroke:#005695;stroke-width:4.64820004;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+    <g
+       style="display:none"
+       id="g926"
+       inkscape:label="#ArrowLeftBearRight"
+       transform="translate(267.18637,5.836592)">
+      <circle
+         r="31.537804"
+         cy="-202.68069"
+         cx="67.840485"
+         id="circle886"
+         style="fill:#f3901d;fill-opacity:1;stroke:#005695;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         transform="matrix(0,1,1,0,0,0)" />
+      <g
+         transform="translate(2.1470628,0.04737629)"
+         id="g916">
+        <g
+           id="g908"
+           transform="rotate(29.706236,-202.17293,59.472211)">
+          <path
+             inkscape:connector-curvature="0"
+             id="path888"
+             d="M -193.36747,45.56994 -179.359,59.5784"
+             style="fill:none;stroke:#005695;stroke-width:4.64820004;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             sodipodi:nodetypes="cc" />
+          <path
+             style="fill:none;stroke:#005695;stroke-width:4.64820004;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="M -193.36747,45.56994 -207.37594,59.5784"
+             id="path890"
+             inkscape:connector-curvature="0"
+             sodipodi:nodetypes="cc" />
+        </g>
+        <path
+           inkscape:connector-curvature="0"
+           id="path892"
+           d="m -226.8137,72.710879 10.44165,-10.52273"
+           style="fill:none;stroke:#005695;stroke-width:4.64820004;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           sodipodi:nodetypes="cc" />
+        <path
+           style="fill:none;stroke:#005695;stroke-width:4.64820004;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m -226.8137,72.710879 9.95526,10.68485"
+           id="path894"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cc" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path896"
+           d="m -226.8137,72.710879 26.45309,0.229283 12.72522,-21.179578"
+           style="fill:none;stroke:#005695;stroke-width:4.64820004;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           sodipodi:nodetypes="ccc" />
+      </g>
     </g>
   </g>
 </svg>
