@@ -81,9 +81,14 @@ def template_to_svg(template_filename, csv_filename, output_path_base):
 
 def main(argv):
     svg_filenames = template_to_svg(argv[1], argv[2], argv[3])
+    # Really crude 'ok here's how to generate pdfs' technique: print out the
+    # command to do it. TODO: Actually call inkscape!
     for svg in svg_filenames:
-       pdf = svg[:-3] + "pdf"
-       print ("inkscape.exe  --export-area-drawing  --export-type=pdf  --batch-process  %s  --export-filename=%s" % (svg, pdf))
+        pdf = svg[:-3] + "pdf"
+        print(
+            "inkscape.exe  --export-area-drawing  --export-type=pdf  --batch-process  %s  --export-filename=%s"
+            % (svg, pdf)
+        )
 
 
 if __name__ == "__main__":
