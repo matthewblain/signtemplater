@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
@@ -15,7 +13,7 @@
    viewBox="0 0 139.69999 638.69142"
    version="1.1"
    id="svg9112"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)"
    sodipodi:docname="lhh_vertical_sign_template_withlogo.svg">
   <sodipodi:namedview
      id="base"
@@ -24,22 +22,23 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.5921403"
-     inkscape:cx="377.40677"
-     inkscape:cy="2214.4411"
+     inkscape:zoom="0.79607015"
+     inkscape:cx="252.22952"
+     inkscape:cy="2174.7209"
      inkscape:document-units="in"
-     inkscape:current-layer="layer4"
+     inkscape:current-layer="printing-marks"
      showgrid="false"
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
      units="in"
-     inkscape:window-width="1827"
-     inkscape:window-height="1057"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
-     inkscape:window-maximized="1" />
+     inkscape:window-width="1267"
+     inkscape:window-height="1041"
+     inkscape:window-x="31"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:document-rotation="0" />
   <defs
      id="defs9106">
     <pattern
@@ -67,7 +66,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -83,10 +82,10 @@
        id="text892"
        y="630.94324"
        x="0.64853925"
-       style="font-style:normal;font-weight:normal;font-size:6.35000038px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458335"
+       style="font-style:normal;font-weight:normal;font-size:6.35px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        xml:space="preserve"><tspan
          id="tspan888"
-         style="font-size:8.46666718px;stroke-width:0.26458335"
+         style="font-size:8.46667px;stroke-width:0.264583"
          y="630.94324"
          x="0.64853925">SIGNINFO</tspan></text>
   </g>
@@ -138,7 +137,7 @@
     <flowRoot
        xml:space="preserve"
        id="flowRoot8940"
-       style="font-style:normal;font-weight:normal;font-size:13.33333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-weight:normal;font-size:13.3333px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:none"
        transform="matrix(0.06298962,0,0,0.06298962,5.796582,5.178101)"><flowRegion
          id="flowRegion8930"
          style="fill:#ffffff;fill-opacity:1"><rect
@@ -149,11 +148,12 @@
            y="-24.21044"
            style="fill:#ffffff;fill-opacity:1" /></flowRegion><flowPara
          id="flowPara8934"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:170.66667175px;font-family:'Uni Neue';-inkscape-font-specification:'Uni Neue Bold';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1">Laguna Honda </flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:170.66667175px;font-family:'Uni Neue';-inkscape-font-specification:'Uni Neue Bold';fill:#ffffff;fill-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:170.667px;font-family:'Uni Neue';-inkscape-font-specification:'Uni Neue Bold';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1">Laguna Honda </flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:170.667px;font-family:'Uni Neue';-inkscape-font-specification:'Uni Neue Bold';fill:#ffffff;fill-opacity:1"
          id="flowPara8938"><flowSpan
-   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:170.66667175px;font-family:'Uni Neue';-inkscape-font-specification:'Uni Neue Bold';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1"
-   id="flowSpan8936">Community Trail </flowSpan>System</flowPara></flowRoot>    <rect
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:170.667px;font-family:'Uni Neue';-inkscape-font-specification:'Uni Neue Bold';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1"
+   id="flowSpan8936">Community Trail </flowSpan>System</flowPara></flowRoot>
+    <rect
        transform="translate(61.232154,31.234526)"
        ry="0"
        y="2.9054127"
@@ -422,9 +422,9 @@
        id="text8946"
        y="15.893157"
        x="88.273506"
-       style="font-style:normal;font-weight:normal;font-size:6.3499999px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       style="font-style:normal;font-weight:normal;font-size:6.35px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:50.79999924px;font-family:'Uni Neue';-inkscape-font-specification:'Uni Neue Bold';stroke-width:0.26458332"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:50.8px;font-family:'Uni Neue';-inkscape-font-specification:'Uni Neue Bold';stroke-width:0.264583"
          y="15.893157"
          x="88.273506"
          id="tspan8944"
@@ -772,11 +772,11 @@
     </g>
   </g>
   <g
-     sodipodi:insensitive="true"
      inkscape:groupmode="layer"
      inkscape:label="Printing Marks"
      id="printing-marks"
-     style="display:inline">
+     style="display:none"
+     sodipodi:insensitive="true">
     <g
        inkscape:label="CropMarks"
        id="CropMarks">
