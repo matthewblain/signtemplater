@@ -4,10 +4,10 @@ SignID,Comment,TrailName,Arrow
 4N,,Troop 88 Trail,Up
 4S,,Troop 88 Trail,Up
 5E,Use 5' post?,Troop 88 Trail,Right
-5S,,To Steep Ravine,Left
+5S,,to Steep Ravine Tr.,Left
 6.5W,"At Sutro Meadow, optional",Steep Ravine Trail,LeftRight
 6E,,Steep Ravine Trail,Right
-6S,,To Troop 88,LeftRight
+6S,,to Troop 88 Tr.,LeftRight
 7E,,Clarendon Knob Tr.,UpLeft
 7N,,Steep Ravine Trail,LeftRight
 7W,,Steep Ravine Trail,Up
