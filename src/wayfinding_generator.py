@@ -10,6 +10,10 @@ CSV file must have headers with columns SignID, TrailName, Arrow
 Arrow must match... whatever labels are used in the SVG template.
 E.g. ArrowLeft, ArrowRight in template -> Left, Right in CSV.
 
+Example usage:
+  python wayfinding_generator.py lhh_data\lhh_kiosk_sign_template_withlogo.svg \
+  lhh_data\lhh_kiosk_sign_plan.csv \temp\signs\kiosksign_
+
 Todo: Document the exact format.s!
 Todo: Use Inkscape to generate the PDF files.
 inkscape.exe INPUT.SVG --export-area-drawing  \
