@@ -31,6 +31,9 @@ def generate_files(template_filename, csv_data, output_base):
     seen_ids = set()
     svg_filenames = []
     for sign_info in csv_data:
+        if sign_info["SignID"][0] == '#':
+            # Skip "commented out" lines.
+            continue
         if sign_info["SignID"] in seen_ids:
             raise Exception("Sign ID seen more than once: " + sign_info["SignID"])
         tree = fill_template(template_filename, sign_info)
