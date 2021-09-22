@@ -1,8 +1,8 @@
 SignID,Comment,TrailName,Arrow
 2S,,Troop 88 Trail,UpRight
-3aS,,Troop 88 Trail,V
-#3aE,,Troop 88 Trail,Right
-#3aW,,Troop 88 Trail,Left
+#3aS,,Troop 88 Trail,V
+3aE,,Troop 88 Trail,UpRight
+3aW,,Troop 88 Trail,UpLeft
 4N,,Troop 88 Trail,Up
 4S,,Troop 88 Trail,Up
 5E,Use 5' post?,Troop 88 Trail,Right
