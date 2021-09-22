@@ -22,11 +22,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.42807578"
-     inkscape:cx="240.61161"
-     inkscape:cy="1064.0639"
+     inkscape:zoom="0.85615156"
+     inkscape:cx="45.552682"
+     inkscape:cy="1480.4622"
      inkscape:document-units="in"
-     inkscape:current-layer="g1156"
+     inkscape:current-layer="layer2"
      showgrid="false"
      fit-margin-top="0"
      fit-margin-left="0"
@@ -147,7 +147,8 @@
      transform="translate(-4.1853637e-6,-23.958962)"
      inkscape:label="LogoLHH"
      id="layer3"
-     inkscape:groupmode="layer">
+     inkscape:groupmode="layer"
+     sodipodi:insensitive="true">
     <image
        width="85.128998"
        height="16.667053"
@@ -162,7 +163,8 @@
      transform="translate(-4.1853637e-6,-23.958962)"
      inkscape:label="Logos SFUR"
      id="g1156"
-     inkscape:groupmode="layer">
+     inkscape:groupmode="layer"
+     sodipodi:insensitive="true">
     <g
        id="g2741"
        transform="translate(1.0583334)">
@@ -203,19 +205,19 @@
      style="display:inline"
      inkscape:label="PageInfo"
      id="layer2"
-     inkscape:groupmode="layer"
-     sodipodi:insensitive="true">
+     inkscape:groupmode="layer">
     <text
        inkscape:label="#SignInfo"
        id="text892"
-       y="533.21387"
-       x="13.913284"
+       y="15.82322"
+       x="-526.75604"
        style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.238125"
-       xml:space="preserve"><tspan
+       xml:space="preserve"
+       transform="rotate(-90)"><tspan
          id="tspan888"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.23333px;font-family:'Uni Neue';-inkscape-font-specification:'Uni Neue Light';stroke-width:0.238125"
-         y="533.21387"
-         x="13.913284">SIGNINFO</tspan></text>
+         y="15.82322"
+         x="-526.75604">SIGNINFO</tspan></text>
   </g>
   <g
      style="display:inline"
