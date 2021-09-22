@@ -24,9 +24,9 @@
      inkscape:pageshadow="2"
      inkscape:zoom="1.5860214"
      inkscape:cx="303.2746"
-     inkscape:cy="1666.7493"
+     inkscape:cy="153.52882"
      inkscape:document-units="in"
-     inkscape:current-layer="layer4"
+     inkscape:current-layer="layer5"
      showgrid="false"
      fit-margin-top="0"
      fit-margin-left="0"
@@ -425,7 +425,7 @@
   </g>
   <g
      transform="translate(-19.050005,-93.704552)"
-     style="display:inline"
+     style="display:none"
      inkscape:label="Arrow"
      id="layer8"
      inkscape:groupmode="layer"
@@ -773,7 +773,7 @@
      transform="translate(-4.762498)">
     <g
        id="g2466"
-       transform="translate(107.62068,110.11388)"
+       transform="translate(107.62068,109.05554)"
        inkscape:label="#ArrowRight"
        style="display:none">
       <ellipse
@@ -790,7 +790,7 @@
     </g>
     <g
        id="g4022"
-       transform="translate(156.61046,168.25185)"
+       transform="translate(156.61046,167.19351)"
        inkscape:label="#ArrowLeftRight"
        style="display:none">
       <ellipse
@@ -808,7 +808,7 @@
     <g
        id="g5686"
        inkscape:label="#ArrowLeftBearRight"
-       transform="translate(212.6867,167.28598)"
+       transform="translate(212.6867,166.22764)"
        style="display:none">
       <ellipse
          style="fill:#f3901d;stroke:none;stroke-width:0.0319047;stroke-linejoin:bevel"
@@ -824,7 +824,7 @@
     </g>
     <g
        id="g5662"
-       transform="rotate(-90,50.459053,-41.709725)"
+       transform="rotate(-90,49.929887,-42.238891)"
        inkscape:label="#ArrowUp"
        style="display:none">
       <ellipse
@@ -841,7 +841,7 @@
     </g>
     <g
        id="g5668"
-       transform="rotate(180,-4.5978389,12.100623)"
+       transform="rotate(180,-4.5978389,11.571457)"
        inkscape:label="#ArrowLeft"
        style="display:none">
       <ellipse
@@ -858,7 +858,7 @@
     </g>
     <g
        id="g5674"
-       transform="rotate(-45,128.32126,-117.80917)"
+       transform="rotate(-45,127.04374,-118.33833)"
        inkscape:label="#ArrowUpRight"
        style="display:none">
       <ellipse
@@ -875,7 +875,7 @@
     </g>
     <g
        id="g5680"
-       transform="rotate(-135,18.207478,-10.18836)"
+       transform="rotate(-135,17.98829,-10.717526)"
        inkscape:label="#ArrowUpLeft"
        style="display:none">
       <ellipse
