@@ -24,9 +24,9 @@
      inkscape:pageshadow="2"
      inkscape:zoom="1.5121462"
      inkscape:cx="123.66529"
-     inkscape:cy="1575.5752"
+     inkscape:cy="147.14186"
      inkscape:document-units="in"
-     inkscape:current-layer="layer2"
+     inkscape:current-layer="layer5"
      showgrid="false"
      fit-margin-top="0"
      fit-margin-left="0"
@@ -442,7 +442,8 @@
      style="display:inline"
      inkscape:label="PageInfo"
      id="layer2"
-     inkscape:groupmode="layer">
+     inkscape:groupmode="layer"
+     sodipodi:insensitive="true">
     <text
        inkscape:label="#SignInfo"
        id="text892"
@@ -825,7 +826,6 @@
      id="layer5"
      inkscape:label="NewArrowArena"
      transform="translate(-4.762498)"
-     sodipodi:insensitive="true"
      style="display:inline">
     <g
        id="g2466"
@@ -946,5 +946,20 @@
          d="m -87.786935,-45.337448 h 34.51018 l -12.29392,-12.29405 3.36757,-3.36759 18.04286,18.04289 -18.04286,18.042729 -3.36757,-3.367558 12.29392,-12.293921 h -34.51225 l 0.002,-4.7625"
          id="path5678" />
     </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer6"
+     inkscape:label="NewArrowShadow"
+     sodipodi:insensitive="true"
+     style="display:inline">
+    <ellipse
+       style="display:inline;fill:none;stroke:#4c8691;stroke-width:0.381;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="ellipse4187"
+       cx="-78.170082"
+       cy="-15.30827"
+       rx="29.380829"
+       ry="29.428104"
+       transform="rotate(-135)" />
   </g>
 </svg>
