@@ -1,6 +1,8 @@
 SignID,Comment,TrailName,Arrow
 2S,,Troop 88 Trail,UpRight
 3aS,,Troop 88 Trail,V
+#3aE,,Troop 88 Trail,Right
+#3aW,,Troop 88 Trail,Left
 4N,,Troop 88 Trail,Up
 4S,,Troop 88 Trail,Up
 5E,Use 5' post?,Troop 88 Trail,Right
@@ -20,7 +22,7 @@ SignID,Comment,TrailName,Arrow
 10E,,Timber Trail,Right
 10S,,Clarendon Knob Tr.,LeftRight
 10W,,Timber Trail,Left
-12NE,,Lost Trail,Right
+12NE,,Dan's Lost Trail,Right
 12SE,,Sherwood Road Tr.,LeftRight
-15N,Lost Trail lower leg,Lost Trail,Left
+15N,Lost Trail lower leg,Dan's Lost Trail,Left
 15S,Lost Trail lower leg,Victory Trail,Up
